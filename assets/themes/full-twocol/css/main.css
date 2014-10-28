@@ -25,7 +25,7 @@ body {
 }
 
 #sidebar h1 a { 
-	color: RGB(0, 119, 34); 
+	color:	rgb(239, 215, 178) 
 }
 
 #description {
@@ -171,12 +171,14 @@ body {
 .body h1,h2{
 	margin: 10px 0px 0px 30px;
 	font-size: 24px;
-	color: RGB(0,119,34);
+	color: #e74c3c;
+	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 .body h2 a{
 	margin:10px 0px;
 	font-size: 24px;
-	color: RGB(0,119,34);
+	color: #e74c3c;
+	font-weight: 400;
 }
 
 .body h1{
