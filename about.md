@@ -1,5 +1,10 @@
-{% include JB/setup %}
+---
+Title: 关于
+layout: post
+tagline: Supporting tagline
+---
 
+{% include JB/setup %}
 ##<font style="color:grey">jie.xu</font>😀##
 
 ----
